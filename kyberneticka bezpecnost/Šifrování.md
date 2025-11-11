@@ -1,0 +1,8 @@
+## symetrické
+
+
+
+
+
+
+## asymetrické
