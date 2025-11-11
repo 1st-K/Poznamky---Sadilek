@@ -24,8 +24,12 @@ při `git push`  z terminalu musí být nastaveno git@github.com:jmenoNaGithubu/
 
 3. přidáme soubory, které následně budeme commitovat
 	- řekne které soubory zahrnout a které ne
-	`git add *` - přidání všech souborů
+	`git add .` - přidání všech souborů
 	
+
+4.  `git config --global user.name "Vaše jméno" git config --global user.email "vas@email.cz"`
+
+5. `git remote add origin <URL vzdáleného repozitáře>`
 
 ---
 ### Cloning repozitorářů
