@@ -16,8 +16,8 @@ skills:
   - YAML
 ```
 ### .dll
-
-
+**dynamic link libraries**
+- modul obsahující data a funkce, které mohou být použity jinými aplikacemi a programy
 
 ### .nls
 **microsoft system file**

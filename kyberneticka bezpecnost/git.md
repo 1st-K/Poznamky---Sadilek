@@ -27,13 +27,17 @@ při `git push`  z terminalu musí být nastaveno git@github.com:jmenoNaGithubu/
 	`git add .` - přidání všech souborů
 	
 
-4.  `git config --global user.name "Vaše jméno" git config --global user.email "vas@email.cz"`
+4.  prvni commit
+	- `git commit -m "prvni commit"`
 
 5. `git remote add origin <URL vzdáleného repozitáře>`
+	- zde je ten moment kde se hodi mit v url nastaveno git@github.com
+
+6. `git push` 
 
 ---
 ### Cloning repozitorářů
 
 - jak název vypovídá kopíruje vzdálený nebo lokální repozitář
 - vhodné například při stahování z githubu/gitlabu
-- `git clone 'cesta k repozitáři' 'lokální název (není nutný)`
+- `git clone 'cesta k repozitáři' 'lokální název' (není nutný)`
