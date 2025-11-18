@@ -24,3 +24,5 @@
 - planetárium s velkou kopulí
 
 ricky gervais - humorista (mimo téma pouze poznámka)
+
+[[Velká válka - první světová]]
