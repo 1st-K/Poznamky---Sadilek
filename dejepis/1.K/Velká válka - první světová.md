@@ -24,4 +24,6 @@
 
 - **1908** obsazení bosny rakouskem-uherskem
 -  Anexe bosny a hercegoviny rakouskem-uherskem (1908)
-- 
+
+### Svět těsně před válkou
+- pentarchie - vláda pěti států

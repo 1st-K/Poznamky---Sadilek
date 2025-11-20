@@ -31,12 +31,16 @@
 
 ### Bohové a jejich úlohy
 
-| Řecký | Římský | Úloha | Řecký | Římský | Úloha |
-|--------|--------|--------|--------|--------|--------|
-| Afrodité | Venuše | bohyně lásky | Héfaistos | Vulkán | bůh kovářství |
-| Apollón | Apollo | bůh slunce a umění | Héra | Juno | bohyně manželství |
-| Arés | Mars | bůh války | Hermes | Merkur | bůh obchodu a posel |
-| Artemis | Diana | bohyně lovu | Kronos | Saturn | bůh času |
-| Athéna | Minerva | bohyně moudrosti | Plútón / Hádes | Pluto | bůh podsvětí |
-| Dionýsos | Bacchus | bůh vína a veselí | Poseidón | Neptun | bůh moří |
-| Erós | Kupido | bůh lásky | Zeus | Jupiter | nejvyšší bůh |
+| Řecký    | Římský  | Úloha              | Řecký          | Římský  | Úloha               |
+| -------- | ------- | ------------------ | -------------- | ------- | ------------------- |
+| Afrodité | Venuše  | bohyně lásky       | Héfaistos      | Vulkán  | bůh kovářství       |
+| Apollón  | Apollo  | bůh slunce a umění | Héra           | Juno    | bohyně manželství   |
+| Arés     | Mars    | bůh války          | Hermes         | Merkur  | bůh obchodu a posel |
+| Artemis  | Diana   | bohyně lovu        | Kronos         | Saturn  | bůh času            |
+| Athéna   | Minerva | bohyně moudrosti   | Plútón / Hádes | Pluto   | bůh podsvětí        |
+| Dionýsos | Bacchus | bůh vína a veselí  | Poseidón       | Neptun  | bůh moří            |
+| Erós     | Kupido  | bůh lásky          | Zeus           | Jupiter | nejvyšší bůh        |
+
+
+## Divadlo za antiky
+
