@@ -63,3 +63,6 @@ halogenidy -1 (F, Cl, Br, I)
 sulfidy -2 (S)
 hydridy -1 (H)
 
+
+### Kyseliny a zásady
+

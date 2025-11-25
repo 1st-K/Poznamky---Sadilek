@@ -27,3 +27,7 @@
 
 ### Svět těsně před válkou
 - pentarchie - vláda pěti států
+
+### Začátek války
+- Atentát Ferdinanda d'Este (28. 6. 1914)
+- zavraždil ho Gavrilo Princip

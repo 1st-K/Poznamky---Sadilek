@@ -44,3 +44,38 @@
 
 ## Divadlo za antiky
 
+eposy - Homér
+bajky - Ezop
+lyrika - Sapfó
+
+Anakreon - ženy, víno, zpěv
+
+- Hrála se v amfiteátrech
+- Během dne
+- Herci nosili podpadky a masky
+- Ze začátku hrál jeden herec
+- Herci pouze muži
+- Poslové - shrne co se děje v ten moment nikde jinde
+- Místo - čas - 
+- Chórus - nositelé veřejného mínění
+
+
+části divadla
+	expozice
+	kolize
+	krize
+	peripetie
+	katastrofa
+
+
+### Král oidipus
+- v Tébách 
+	- město v chudobě
+- Poslal sluhy do věštírny
+- oženil se s jeho matkou
+
+
+
+### Antigona
+- pokračování krála oidipa
+- 

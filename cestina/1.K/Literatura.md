@@ -37,7 +37,7 @@
 #### Blues
 - Melancholicky laděná píseň (smutná)
 
-#### Oda, hymnus
+#### Óda, hymnus
 - Rozsáhlejší básň
 - Přehnaně dojemná
 
