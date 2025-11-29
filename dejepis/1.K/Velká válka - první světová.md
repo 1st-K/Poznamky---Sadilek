@@ -31,3 +31,16 @@
 ### Začátek války
 - Atentát Ferdinanda d'Este (28. 6. 1914)
 - zavraždil ho Gavrilo Princip
+
+## Válečné fronty Velké války
+![[velkavalkafronty.jpg]]
+(data označují konce války na frontách)
+
+
+- V rusku vypukla revoluce kvůli bolševikům a proto východní fronta skončila dříve
+
+### Západní fronta
+![[zapadnifrontaVelkavalka.jpg]]
+
+- Útok klasiva a kovadliny
+	- vpodstatě obklíčení 

@@ -66,3 +66,5 @@ hydridy -1 (H)
 
 ### Kyseliny a zásady
 
+- kyselina odštěpuje H+, zásada OH-
+- 

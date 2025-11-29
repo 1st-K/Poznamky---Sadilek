@@ -78,4 +78,26 @@ Anakreon - ženy, víno, zpěv
 
 ### Antigona
 - pokračování krála oidipa
-- 
+
+
+## domácí práce - jaké si dával kreón a antigona argumenty
+
+Kreón:
+
+- Zákony státu jsou nad osobními city a rodinnými vztahy.
+- Rozlišuje ctění zemřelých podle jejich zásluh o stát.
+- Porušení zákona vede k anarchii a musí být potrestáno.
+- Odmítá, aby osobní vztahy nadřazoval zákonu.
+
+Antigona:
+
+- Božské, nepsané zákony jsou nad zákony lidí a státu.
+- Pohřbení bratra je morální povinností, která převažuje nad královským zákazem.
+- Kreónův zákaz nemá božskou autoritu, proto ho nelze respektovat.
+- Přijetí smrti za tento čin je pro ni čestné a správné.
+
+Výpis **umění milovat**  
+
+- Naslouchej jiným, pokud lásku neznáš, abys byl poučen
+- Ovidius radí, že muži by neměli partnerkám zdůrazňovat jejich nedostatky. Malé chyby nejsou důvodem k odmítnutí, protože láska časem zraje a některé drobné vady se mohou proměnit v půvab. Kritika by mohla vztah poškodit a oslabit city ženy, proto je lepší lichotit a říkat dívce, co ráda slyší, aby se vztah upevnil.
+- Pro ženy Ovidius doporučuje, aby si udržovaly určitou dávku nezávislosti a tajemství, neukazovaly hned úplnou odevzdanost. Tím, že nechají muže v nejistotě, si ho lépe udrží a zvýší jeho zájem a pozornost. Být zábavná, bouřlivá a trochu nepředvídatelná je podle Ovidia důležité pro udržení napětí a vzrušení ve vztahu.
