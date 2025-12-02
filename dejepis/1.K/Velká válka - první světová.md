@@ -44,3 +44,4 @@
 
 - Útok klasiva a kovadliny
 	- vpodstatě obklíčení 
+	- nevyšlo to omylem to prohodily tzn. kladivo nakonec byla kovadlina atd.
