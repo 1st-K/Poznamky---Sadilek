@@ -7,7 +7,7 @@
 - Červený fosfor - součást krabiček od zápalek
 - Bílý fosfor - součást nelegálních zbraní hromadného ničení
 
-## molekul
+## molekuly
 
 ### triviální názvosloví
  - Každá sloučenina má vlastní unikátní název
@@ -67,4 +67,4 @@ hydridy -1 (H)
 ### Kyseliny a zásady
 
 - kyselina odštěpuje H+, zásada OH-
-- 
+
